@@ -1,0 +1,13 @@
+train: ../datasets/abu_otameshi/train/images
+val: ../datasets/abu_otameshi/valid/images
+test: ../datasets/abu_otameshi/test/images
+
+nc: 3 # number of classes
+names: ['blue_ball', 'purple_ball', 'red_ball']
+
+roboflow:
+  workspace: keio-robotics-association
+  project: abu_robocon_2024_otameshi
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/keio-robotics-association/abu_robocon_2024_otameshi/dataset/1
