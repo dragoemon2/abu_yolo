@@ -1,8 +1,8 @@
 
-abu_robocon_2024_otameshi - v6 2024-03-17 5:38pm
+abu_robocon_2024_otameshi - v9 2024-03-17 11:30pm
 ==============================
 
-This dataset was exported via roboflow.com on March 17, 2024 at 8:41 AM GMT
+This dataset was exported via roboflow.com on March 17, 2024 at 3:50 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 3567 images.
+The dataset includes 4808 images.
 Red_ball are annotated in YOLO v5 PyTorch format.
 
 The following pre-processing was applied to each image:
