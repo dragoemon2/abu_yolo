@@ -8,6 +8,6 @@ names: ['blue_ball', 'purple_ball', 'red_ball']
 roboflow:
   workspace: keio-robotics-association
   project: ilias2024
-  version: 1
+  version: 2
   license: CC BY 4.0
-  url: https://universe.roboflow.com/keio-robotics-association/ilias2024/dataset/1
+  url: https://universe.roboflow.com/keio-robotics-association/ilias2024/dataset/2
