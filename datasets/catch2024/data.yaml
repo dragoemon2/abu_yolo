@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['blue_setoshio', 'red_setoshio', 'white_setoshio']
+
+roboflow:
+  workspace: keio-robotics-association
+  project: catch2024
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/keio-robotics-association/catch2024/dataset/1
