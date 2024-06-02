@@ -1,8 +1,8 @@
 
-catch2024 - v1 2024-05-26 11:46pm
+catch2024 - v2 2024-06-02 4:38pm
 ==============================
 
-This dataset was exported via roboflow.com on May 27, 2024 at 1:38 AM GMT
+This dataset was exported via roboflow.com on June 2, 2024 at 7:39 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 141 images.
+The dataset includes 351 images.
 Setoshio are annotated in YOLO v5 PyTorch format.
 
 The following pre-processing was applied to each image:
