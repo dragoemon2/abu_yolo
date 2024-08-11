@@ -8,6 +8,6 @@ names: ['blue_setoshio', 'red_setoshio', 'white_setoshio']
 roboflow:
   workspace: keio-robotics-association
   project: catch2024
-  version: 2
+  version: 3
   license: CC BY 4.0
-  url: https://universe.roboflow.com/keio-robotics-association/catch2024/dataset/2
+  url: https://universe.roboflow.com/keio-robotics-association/catch2024/dataset/3
