@@ -3,7 +3,7 @@ val: ../datasets/catch2024/valid/images
 test: ../datasets/catch2024/test/images
 
 nc: 3 # number of classes
-names: ['blue_setoshio', 'red_setoshio', 'white_setoshio']
+names: ['green_setoshio', 'red_setoshio', 'yellow_setoshio']
 
 roboflow:
   workspace: keio-robotics-association

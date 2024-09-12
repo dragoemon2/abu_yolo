@@ -1,8 +1,8 @@
 
-catch2024 - v3 2024-08-11 2:49pm
+setoshio 2 - v1 2024-09-12 8:04am
 ==============================
 
-This dataset was exported via roboflow.com on August 11, 2024 at 2:50 PM GMT
+This dataset was exported via roboflow.com on September 12, 2024 at 8:05 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,15 +17,17 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 649 images.
-Setoshio are annotated in YOLO v5 PyTorch format.
+The dataset includes 257 images.
+Workers-bioy are annotated in YOLO v5 PyTorch format.
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
-* Resize to 640x640 (Stretch)
+* Resize to 416x416 (Stretch)
 
 The following augmentation was applied to create 3 versions of each source image:
+* 50% probability of horizontal flip
+* Randomly crop between 0 and 40 percent of the image
 * Random rotation of between -15 and +15 degrees
-* Random brigthness adjustment of between -15 and +15 percent
+* Random Gaussian blur of between 0 and 1.5 pixels
 
 

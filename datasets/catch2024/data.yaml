@@ -3,11 +3,11 @@ val: ../valid/images
 test: ../test/images
 
 nc: 3
-names: ['blue_setoshio', 'red_setoshio', 'white_setoshio']
+names: ['green_setoshio', 'red_setoshio', 'yellow_setoshio']
 
 roboflow:
   workspace: keio-robotics-association
-  project: catch2024
-  version: 3
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/keio-robotics-association/catch2024/dataset/3
+  project: setoshio-2
+  version: 1
+  license: Public Domain
+  url: https://app.roboflow.com/keio-robotics-association/setoshio-2/1
